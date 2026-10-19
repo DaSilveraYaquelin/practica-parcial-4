@@ -60,7 +60,7 @@ audio {
 /* Imagen de fondo del nodo 2 */
 
 body.nodo-casa {
-  background-image: url("img/casa-bosque.jpg");
+  background-image: url("fondo-andi.png.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
