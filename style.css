@@ -84,7 +84,7 @@ body.inicio::before {
     content: "";
     position: fixed;
     inset: 0;
-    background-image: url("img/fondo-andi.png");
+    background-image: url("img/fondo-andi.png.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
